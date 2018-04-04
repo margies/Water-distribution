@@ -5,4 +5,4 @@ Bragalli, C., D’Ambrosio, C., Lee, J., Lodi, A., & Toth, P. (2015). Optimizing
 Bonmin web interface:
 https://neos-server.org/neos/solvers/minco:Bonmin/AMPL.html
 
-Written in AMP
+Written in AMPL
